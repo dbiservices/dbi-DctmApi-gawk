@@ -1,0 +1,18 @@
+# Ignore files that are created by a build.
+# For example objects and archives.
+*.[oa]
+
+# Directories
+autom4te.cache
+.deps
+*.dSYM
+
+# Single files.
+Makefile
+config.h
+config.log
+config.status
+gawk
+stamp-h1
+
+test/fmtspcl.ok

@@ -1,0 +1,70 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.out*
+*.ko
+*.elf
+
+# Linker output
+*.ilk
+*.map
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects;
+*.so
+*.so.*
+!libdmcl.so   # include it in the repository as it is allowed by OpenText;
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# saved files;
+*_saved
+
+# misc.;
+*.json
+*.py
+.*.swp
+.git-*
+
+# packages;
+*.tar.*
+*.tgz
+*.zip
+*.deb
+*.rpm
+
+# blogs;
+*.blog
+
