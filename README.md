@@ -97,7 +97,7 @@ This project is free to use, do what you want with it. I hope that it will be us
 
 [odbc-gawk, a gawk extension to access databases through ODBC](https://github.com/dbiservices/dbi-odbc-gawk "dbi-odbc-gawk")
 
-More extensions to come. [Some of them have already been presented in dbi-services' blog page](https://blog.dbi-services.com/ "blogs dbi-services")
+More extensions to come. Some of them have already been presented in [dbi-services' blog page](https://blog.dbi-services.com/ "blogs dbi-services")
 
 ## Acknowledgments
 
